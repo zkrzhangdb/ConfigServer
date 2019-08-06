@@ -1,0 +1,1 @@
+http://localhost:7001/didispace/prod/config-label-test
